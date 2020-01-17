@@ -1,4 +1,4 @@
 # Shubham Chadokar's blog  
 
 
-### :link: Live at [schadokar.netlify.com](https://schadokar.netlify.com/)
+### Live at [schadokar.dev](https://schadokar.dev/)
